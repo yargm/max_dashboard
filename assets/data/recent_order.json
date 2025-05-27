@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "product_name": "Theobald",
+    "quantity": 2,
+    "customer": "Theobald Southcott",
+    "status": "Shipped",
+    "price": 361,
+    "order_date": "2023-12-11T23:48:54Z"
+  },
+  {
+    "id": 2,
+    "product_name": "Carla",
+    "quantity": 3,
+    "customer": "Carla Grgic",
+    "status": "Pending",
+    "price": 329,
+    "order_date": "2024-05-25T09:37:51Z"
+  },
+  {
+    "id": 3,
+    "product_name": "Liana",
+    "quantity": 3,
+    "customer": "Liana Swannell",
+    "status": "Delivery",
+    "price": 120,
+    "order_date": "2024-04-06T19:02:14Z"
+  },
+  {
+    "id": 4,
+    "product_name": "Radcliffe",
+    "quantity": 4,
+    "customer": "Radcliffe Venard",
+    "status": "Shipped",
+    "price": 750,
+    "order_date": "2024-10-27T10:44:12Z"
+  },
+  {
+    "id": 5,
+    "product_name": "Delmer",
+    "quantity": 3,
+    "customer": "Delmer Vamplew",
+    "status": "Delivery",
+    "price": 469,
+    "order_date": "2024-10-16T15:55:22Z"
+  }
+]

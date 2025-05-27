@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "first_name": "James Carter",
+    "email": "james.carter@example.com",
+    "messages": [
+      {
+        "message": "How is your day going?",
+        "send_at": "2024-11-15T10:05:10Z",
+        "from_me": false
+      },
+      {
+        "message": "Reminder about the project meeting tomorrow",
+        "send_at": "2023-06-20T14:23:11Z",
+        "from_me": true
+      },
+      {
+        "message": "Can we meet today for a quick chat?",
+        "send_at": "2023-04-19T17:30:08Z",
+        "from_me": false
+      },
+      {
+        "message": "Yes, all is good. See you tomorrow at 2 PM for the meeting",
+        "send_at": "2023-03-22T11:09:45Z",
+        "from_me": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Sophia Lee",
+    "email": "sophia.lee@example.com",
+    "messages": [
+      {
+        "message": "Are we meeting today for the weekly catch-up?",
+        "send_at": "2023-09-10T08:45:36Z",
+        "from_me": false
+      },
+      {
+        "message": "Please review these updated documents",
+        "send_at": "2023-11-17T11:22:33Z",
+        "from_me": true
+      },
+      {
+        "message": "Good morning, How are you? When is our next meeting?",
+        "send_at": "2023-05-13T09:25:18Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Ethan Scott",
+    "email": "ethan.scott@example.com",
+    "messages": [
+      {
+        "message": "Are you available for a quick call? Need to discuss something",
+        "send_at": "2023-12-05T07:40:21Z",
+        "from_me": false
+      },
+      {
+        "message": "Let's meet today, shall we?",
+        "send_at": "2023-03-17T14:00:12Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Olivia Brown",
+    "email": "olivia.brown@example.com",
+    "messages": [
+      {
+        "message": "Let's meet today for a team discussion",
+        "send_at": "2023-05-30T11:55:10Z",
+        "from_me": false
+      },
+      {
+        "message": "Hope you're having a great day. Let's catch up soon",
+        "send_at": "2023-07-12T12:36:44Z",
+        "from_me": true
+      },
+      {
+        "message": "I need to go buy some groceries this afternoon, I'll be a bit late.",
+        "send_at": "2024-01-10T13:20:45Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Charlotte Miller",
+    "email": "charlotte.miller@example.com",
+    "messages": [
+      {
+        "message": "Are you available for a quick chat?",
+        "send_at": "2023-11-11T16:50:09Z",
+        "from_me": false
+      },
+      {
+        "message": "I just sent you the updated contract documents for review.",
+        "send_at": "2023-10-04T18:22:56Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Jackson Harris",
+    "email": "jackson.harris@example.com",
+    "messages": [
+      {
+        "message": "How's everything going? Any updates on the project?",
+        "send_at": "2023-08-25T11:10:30Z",
+        "from_me": false
+      },
+      {
+        "message": "Sending over the latest draft for your review",
+        "send_at": "2023-12-02T10:14:50Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "first_name": "Aiden Cooper",
+    "email": "aiden.cooper@example.com",
+    "messages": [
+      {
+        "message": "Do you have time today for a discussion?",
+        "send_at": "2023-10-05T09:18:22Z",
+        "from_me": false
+      },
+      {
+        "message": "The new update is ready for deployment, please check it.",
+        "send_at": "2024-01-25T11:29:13Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "first_name": "Lily King",
+    "email": "lily.king@example.com",
+    "messages": [
+      {
+        "message": "Would you be able to meet today for a catch-up?",
+        "send_at": "2023-06-18T13:12:09Z",
+        "from_me": false
+      },
+      {
+        "message": "I have finished reviewing the files, please take a look.",
+        "send_at": "2023-12-18T16:47:02Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "first_name": "Max Taylor",
+    "email": "max.taylor@example.com",
+    "messages": [
+      {
+        "message": "Please check the attached file and confirm if everything is okay.",
+        "send_at": "2023-09-29T14:10:33Z",
+        "from_me": false
+      },
+      {
+        "message": "Sending over the revised schedule for the next phase.",
+        "send_at": "2024-01-02T17:12:11Z",
+        "from_me": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "first_name": "Avery Clark",
+    "email": "avery.clark@example.com",
+    "messages": [
+      {
+        "message": "Are we ready for the meeting today?",
+        "send_at": "2023-08-22T12:43:50Z",
+        "from_me": false
+      },
+      {
+        "message": "I updated the timeline. Let me know if you have any questions.",
+        "send_at": "2023-12-15T10:55:29Z",
+        "from_me": true
+      }
+    ]
+  }
+]
